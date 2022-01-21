@@ -19,20 +19,11 @@ function App() {
 
     return (
         <div className="container">
-            {/*<Lesson1 />*/}
+            <Lesson1 />
             {/*<Lesson3 />*/}
             {/*<Lesson4 />*/}
-            <button></button>
         </div>
     );
 }
 
 export default App;
-
-// function sum(x:number) {
-//     debugger
-//     return function (y:number){
-//         return x+y
-//     }
-// }
-// console.log(sum(3)(6))
